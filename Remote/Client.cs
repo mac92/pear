@@ -17,6 +17,7 @@ namespace Remote
         public Client(Socket client_socket)
         {
             this.socket = client_socket;
+            // muscho
             // Thread erzeugen
             serverThread = new Thread(new ThreadStart(Process));
             serverThread.Start();
