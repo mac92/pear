@@ -7,3 +7,5 @@ C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug
 C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\Remote.exe
 C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\Remote.pdb
+C:\Users\Lukas\pear\Remote\obj\x86\Debug\Remote.exe
+C:\Users\Lukas\pear\Remote\obj\x86\Debug\Remote.pdb
