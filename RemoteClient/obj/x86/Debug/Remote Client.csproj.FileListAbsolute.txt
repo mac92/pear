@@ -1,0 +1,9 @@
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\bin\Debug\Remote Client.exe
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\bin\Debug\Remote Client.pdb
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\Remote_Client.Properties.Resources.resources
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\Remote Client.exe
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\Remote Client.pdb
+C:\Users\Lukas\documents\visual studio 2010\Projects\Remote\Remote Client\obj\x86\Debug\Remote_Client.Client.resources
